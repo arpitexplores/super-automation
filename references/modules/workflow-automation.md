@@ -1,5 +1,4 @@
-## Source: references/skills/workflow-automation/SKILL.md
-
+## Module: Workflow Automation
 ---
 name: workflow-automation
 description: "Workflow automation is the infrastructure that makes AI agents reliable. Without durable execution, a network hiccup during a 10-step payment flow means lost money and angry customers. With it, wor..."
@@ -77,7 +76,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: activecampaign-automation
@@ -295,7 +294,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: airtable-automation
@@ -474,7 +473,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: amplitude-automation
@@ -699,7 +698,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: azure-communication-callautomation-java
@@ -963,7 +962,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: bamboohr-automation
@@ -1192,7 +1191,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: billing-automation
@@ -1242,7 +1241,7 @@ Master automated billing systems including recurring billing, invoice generation
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: box-automation
@@ -1484,7 +1483,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: brevo-automation
@@ -1690,7 +1689,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: browser-automation
@@ -1770,7 +1769,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: cal-com-automation
@@ -1982,7 +1981,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: calendly-automation
@@ -2202,7 +2201,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: canva-automation
@@ -2428,7 +2427,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: changelog-automation
@@ -2474,7 +2473,7 @@ Patterns and tools for automating changelog generation, release notes, and versi
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: cicd-automation-workflow-automate
@@ -2533,7 +2532,7 @@ $ARGUMENTS
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: circleci-automation
@@ -2719,7 +2718,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: close-automation
@@ -2940,7 +2939,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: coda-automation
@@ -3190,7 +3189,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: confluence-automation
@@ -3407,7 +3406,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: convertkit-automation
@@ -3611,7 +3610,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: datadog-automation
@@ -3855,7 +3854,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: discord-automation
@@ -4051,7 +4050,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: docusign-automation
@@ -4268,7 +4267,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: dropbox-automation
@@ -4507,7 +4506,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: figma-automation
@@ -4697,7 +4696,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: freshdesk-automation
@@ -4925,7 +4924,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: freshservice-automation
@@ -5147,7 +5146,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: git-hooks-automation
@@ -5568,7 +5567,7 @@ echo "npx --no -- commitlint --edit \$1" > .husky/commit-msg
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: gmail-automation
@@ -5755,7 +5754,7 @@ Tokens automatically refresh when expired using Google's cloud function.
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: google-analytics-automation
@@ -5991,7 +5990,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: google-calendar-automation
@@ -6155,7 +6154,7 @@ Tokens are automatically refreshed when expired using Google's cloud function.
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: google-docs-automation
@@ -6242,7 +6241,7 @@ Access tokens are automatically refreshed when expired using Google's cloud func
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: google-drive-automation
@@ -6383,7 +6382,7 @@ Automatically refreshes expired tokens using Google's cloud function.
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: google-sheets-automation
@@ -6536,7 +6535,7 @@ Use this skill when tackling tasks related to its primary domain or functionalit
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: google-slides-automation
@@ -6682,7 +6681,7 @@ Automatically refreshes expired tokens using Google's cloud function.
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: googlesheets-automation
@@ -6888,7 +6887,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: helpdesk-automation
@@ -7063,7 +7062,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: hubspot-automation
@@ -7250,7 +7249,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: inngest
@@ -7315,7 +7314,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: instagram-automation
@@ -7516,7 +7515,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: intercom-automation
@@ -7773,7 +7772,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: klaviyo-automation
@@ -7972,7 +7971,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: linkedin-automation
@@ -8156,7 +8155,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: mailchimp-automation
@@ -8396,7 +8395,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: make-automation
@@ -8606,7 +8605,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: makepad-animation
@@ -8915,7 +8914,7 @@ fn handle_event(&mut self, cx: &mut Cx, event: &Event, scope: &mut Scope) {
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: makepad-basics
@@ -9072,7 +9071,7 @@ let text = input.text();
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: makepad-deployment
@@ -9487,7 +9486,7 @@ cargo makepad android install-toolchain --full-ndk
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: makepad-dsl
@@ -9646,7 +9645,7 @@ Child = <Parent> {
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: makepad-event-action
@@ -9901,7 +9900,7 @@ if let Event::NextFrame(ne) = event {
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: makepad-font
@@ -10136,7 +10135,7 @@ Use this skill when tackling tasks related to its primary domain or functionalit
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: makepad-layout
@@ -10317,7 +10316,7 @@ Refer to the local files for detailed documentation:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: makepad-platform
@@ -10484,7 +10483,7 @@ impl AppMain for App {
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: makepad-reference
@@ -10541,7 +10540,7 @@ log!("State: {} / {}", self.counter, self.is_loading);
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: makepad-shaders
@@ -10736,7 +10735,7 @@ Community contributions: `./community/`
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: makepad-skills
@@ -10764,7 +10763,7 @@ For more information, see the [source repository](https://github.com/ZhangHanDon
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: makepad-splash
@@ -10982,7 +10981,7 @@ create_form([
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: makepad-widgets
@@ -11198,7 +11197,7 @@ pub trait Widget: WidgetNode {
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: microsoft-teams-automation
@@ -11418,7 +11417,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: miro-automation
@@ -11632,7 +11631,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: mixpanel-automation
@@ -11865,7 +11864,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: n8n-code-javascript
@@ -12569,7 +12568,7 @@ Before deploying Code nodes, verify:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: n8n-code-python
@@ -13322,7 +13321,7 @@ Before deploying Python Code nodes, verify:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: n8n-expression-syntax
@@ -13843,7 +13842,7 @@ For more details, see:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: n8n-mcp-tools-expert
@@ -14490,7 +14489,7 @@ For details, see:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: n8n-node-configuration
@@ -15280,7 +15279,7 @@ For comprehensive guides on specific topics:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: n8n-validation-expert
@@ -15974,7 +15973,7 @@ For comprehensive error catalogs and false positive examples:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: n8n-workflow-patterns
@@ -16390,7 +16389,7 @@ Use `search_templates` and `get_template` from n8n-mcp tools to find examples!
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: notion-automation
@@ -16614,7 +16613,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: one-drive-automation
@@ -16861,7 +16860,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: outlook-automation
@@ -17061,7 +17060,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: outlook-calendar-automation
@@ -17306,7 +17305,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: pagerduty-automation
@@ -17560,7 +17559,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: pipedrive-automation
@@ -17793,7 +17792,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: posthog-automation
@@ -18026,7 +18025,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: postmark-automation
@@ -18222,7 +18221,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: reddit-automation
@@ -18443,7 +18442,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: render-automation
@@ -18633,7 +18632,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: salesforce-automation
@@ -18832,7 +18831,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: segment-automation
@@ -19066,7 +19065,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: sendgrid-automation
@@ -19303,7 +19302,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: sentry-automation
@@ -19544,7 +19543,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: shopify-automation
@@ -19721,7 +19720,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: slack-automation
@@ -19919,7 +19918,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: square-automation
@@ -20104,7 +20103,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: stripe-automation
@@ -20311,7 +20310,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: supabase-automation
@@ -20556,7 +20555,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: telegram-automation
@@ -20784,7 +20783,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: temporal-golang-pro
@@ -21005,7 +21004,7 @@ func ApprovalWorkflow(ctx workflow.Context) (string, error) {
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: temporal-python-pro
@@ -21378,7 +21377,7 @@ Expert Temporal developer focused on building reliable, scalable workflow orches
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: temporal-python-testing
@@ -21556,7 +21555,7 @@ async def test_activity():
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: tiktok-automation
@@ -21743,7 +21742,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: todoist-automation
@@ -21983,7 +21982,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: trigger-dev
@@ -22060,7 +22059,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: twitter-automation
@@ -22300,7 +22299,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: upstash-qstash
@@ -22378,7 +22377,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: vercel-automation
@@ -22613,7 +22612,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: webflow-automation
@@ -22858,7 +22857,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: whatsapp-automation
@@ -23081,7 +23080,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: youtube-automation
@@ -23308,7 +23307,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: zapier-make-patterns
@@ -23385,7 +23384,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: zendesk-automation
@@ -23609,7 +23608,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: zoho-crm-automation
@@ -23824,7 +23823,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: zoom-automation
@@ -24050,7 +24049,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: agent-browser
@@ -24572,7 +24571,7 @@ The native daemon supports Chromium and Safari (via WebDriver). Firefox and WebK
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: mintlify
@@ -24924,7 +24923,7 @@ The `.mintignore` file is used to exclude files from a documentation repository 
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: piece-builder
@@ -25236,7 +25235,7 @@ Always pause and ask if:
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: playwright-e2e-testing
@@ -26325,8 +26324,7 @@ for (const { input, expected } of testCases) {
 - [API Reference](https://playwright.dev/docs/api/class-playwright)
 - [GitHub Examples](https://github.com/microsoft/playwright/tree/main/examples)
 
-## Source: references/skills/workflow-automation/references/legacy/activecampaign-automation/SKILL.md
-
+## Imported Module: Activecampaign Automation
 ---
 name: activecampaign-automation
 description: "Automate ActiveCampaign tasks via Rube MCP (Composio): manage contacts, tags, list subscriptions, automation enrollment, and tasks. Always search tools first for current schemas."
@@ -26541,8 +26539,7 @@ Automate ActiveCampaign CRM and marketing automation operations through Composio
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/activepieces-agent-browser/SKILL.md
-
+## Imported Module: Activepieces Agent Browser
 ---
 name: agent-browser
 description: Browser automation CLI for AI agents. Use when the user needs to interact with websites, including navigating pages, filling forms, clicking buttons, taking screenshots, extracting data, testing web apps, or automating any browser task. Triggers include requests to "open a website", "fill out a form", "click a button", "take a screenshot", "scrape data from a page", "test this web app", "login to a site", "automate browser actions", or any task requiring programmatic web interaction.
@@ -27061,8 +27058,7 @@ The native daemon supports Chromium and Safari (via WebDriver). Firefox and WebK
 ./templates/capture-workflow.sh https://example.com ./output
 ```
 
-## Source: references/skills/workflow-automation/references/legacy/activepieces-mintlify/SKILL.md
-
+## Imported Module: Activepieces Mintlify
 ---
 name: mintlify
 description: Build and maintain documentation sites with Mintlify. Use when
@@ -27411,8 +27407,7 @@ The `.mintignore` file is used to exclude files from a documentation repository 
 * [Feature requests](https://github.com/orgs/mintlify/discussions/categories/feature-requests)
 * [Bugs and feedback](https://github.com/orgs/mintlify/discussions/categories/bugs-feedback)
 
-## Source: references/skills/workflow-automation/references/legacy/activepieces-piece-builder/SKILL.md
-
+## Imported Module: Activepieces Piece Builder
 ---
 name: piece-builder
 description: Builds Activepieces pieces (integrations) with actions and triggers. Use when the user asks to create a new piece, add actions to a piece, add triggers to a piece, or build an integration for a third-party app. Also use when the user mentions Activepieces pieces, connectors, or integration development.
@@ -27721,8 +27716,7 @@ Always pause and ask if:
 -   API uses webhook signature verification
 -   You need test credentials or sandbox access
 
-## Source: references/skills/workflow-automation/references/legacy/activepieces-playwright-e2e-testing/SKILL.md
-
+## Imported Module: Activepieces Playwright E2E Testing
 ---
 name: playwright-e2e-testing
 description: "Playwright modern end-to-end testing framework with cross-browser automation, auto-wait, and built-in test runner"
@@ -28810,8 +28804,7 @@ for (const { input, expected } of testCases) {
 - [API Reference](https://playwright.dev/docs/api/class-playwright)
 - [GitHub Examples](https://github.com/microsoft/playwright/tree/main/examples)
 
-## Source: references/skills/workflow-automation/references/legacy/airtable-automation/SKILL.md
-
+## Imported Module: Airtable Automation
 ---
 name: airtable-automation
 description: "Automate Airtable tasks via Rube MCP (Composio): records, bases, tables, fields, views. Always search tools first for current schemas."
@@ -28987,8 +28980,7 @@ Automate Airtable operations through Composio's Airtable toolkit via Rube MCP.
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/amplitude-automation/SKILL.md
-
+## Imported Module: Amplitude Automation
 ---
 name: amplitude-automation
 description: "Automate Amplitude tasks via Rube MCP (Composio): events, user activity, cohorts, user identification. Always search tools first for current schemas."
@@ -29210,8 +29202,7 @@ For cohort membership updates:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/azure-communication-callautomation-java/SKILL.md
-
+## Imported Module: Azure Communication Callautomation Java
 ---
 name: azure-communication-callautomation-java
 description: "Build call automation workflows with Azure Communication Services Call Automation Java SDK. Use when implementing IVR systems, call routing, call recording, DTMF recognition, text-to-speech, or AI-..."
@@ -29472,8 +29463,7 @@ CALLBACK_BASE_URL=https://your-app.com/api/callbacks
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/bamboohr-automation/SKILL.md
-
+## Imported Module: Bamboohr Automation
 ---
 name: bamboohr-automation
 description: "Automate BambooHR tasks via Rube MCP (Composio): employees, time-off, benefits, dependents, employee updates. Always search tools first for current schemas."
@@ -29699,8 +29689,7 @@ For keeping external systems in sync with BambooHR:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/billing-automation/SKILL.md
-
+## Imported Module: Billing Automation
 ---
 name: billing-automation
 description: "Build automated billing systems for recurring payments, invoicing, subscription lifecycle, and dunning management. Use when implementing subscription billing, automating invoicing, or managing recu..."
@@ -29747,8 +29736,7 @@ Master automated billing systems including recurring billing, invoice generation
 
 - `resources/implementation-playbook.md` for detailed patterns, checklists, and examples.
 
-## Source: references/skills/workflow-automation/references/legacy/box-automation/SKILL.md
-
+## Imported Module: Box Automation
 ---
 name: box-automation
 description: "Automate Box cloud storage operations including file upload/download, search, folder management, sharing, collaborations, and metadata queries via Rube MCP (Composio). Always search tools first for..."
@@ -29987,8 +29975,7 @@ Box tools use double underscore notation for nested objects:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/brevo-automation/SKILL.md
-
+## Imported Module: Brevo Automation
 ---
 name: brevo-automation
 description: "Automate Brevo (Sendinblue) tasks via Rube MCP (Composio): manage email campaigns, create/edit templates, track senders, and monitor campaign performance. Always search tools first for current sche..."
@@ -30191,8 +30178,7 @@ Automate Brevo (formerly Sendinblue) email marketing operations through Composio
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/browser-automation/SKILL.md
-
+## Imported Module: Browser Automation
 ---
 name: browser-automation
 description: "Browser automation powers web testing, scraping, and AI agent interactions. The difference between a flaky script and a reliable system comes down to understanding selectors, waiting strategies, an..."
@@ -30269,8 +30255,7 @@ Works well with: `agent-tool-builder`, `workflow-automation`, `computer-use-agen
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/cal-com-automation/SKILL.md
-
+## Imported Module: Cal Com Automation
 ---
 name: cal-com-automation
 description: "Automate Cal.com tasks via Rube MCP (Composio): manage bookings, check availability, configure webhooks, and handle teams. Always search tools first for current schemas."
@@ -30479,8 +30464,7 @@ Automate Cal.com scheduling operations through Composio's Cal toolkit via Rube M
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/calendly-automation/SKILL.md
-
+## Imported Module: Calendly Automation
 ---
 name: calendly-automation
 description: "Automate Calendly scheduling, event management, invitee tracking, availability checks, and organization administration via Rube MCP (Composio). Always search tools first for current schemas."
@@ -30697,8 +30681,7 @@ Most Calendly list endpoints use token-based pagination:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/canva-automation/SKILL.md
-
+## Imported Module: Canva Automation
 ---
 name: canva-automation
 description: "Automate Canva tasks via Rube MCP (Composio): designs, exports, folders, brand templates, autofill. Always search tools first for current schemas."
@@ -30921,8 +30904,7 @@ Many Canva operations are asynchronous:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/changelog-automation/SKILL.md
-
+## Imported Module: Changelog Automation
 ---
 name: changelog-automation
 description: "Automate changelog generation from commits, PRs, and releases following Keep a Changelog format. Use when setting up release workflows, generating release notes, or standardizing commit conventions."
@@ -30965,8 +30947,7 @@ Patterns and tools for automating changelog generation, release notes, and versi
 
 - `resources/implementation-playbook.md` for detailed patterns, templates, and examples.
 
-## Source: references/skills/workflow-automation/references/legacy/cicd-automation-workflow-automate/SKILL.md
-
+## Imported Module: Cicd Automation Workflow Automate
 ---
 name: cicd-automation-workflow-automate
 description: "You are a workflow automation expert specializing in creating efficient CI/CD pipelines, GitHub Actions workflows, and automated development processes. Design automation that reduces manual work, i..."
@@ -31022,8 +31003,7 @@ $ARGUMENTS
 
 - `resources/implementation-playbook.md` for detailed workflow patterns and examples.
 
-## Source: references/skills/workflow-automation/references/legacy/circleci-automation/SKILL.md
-
+## Imported Module: Circleci Automation
 ---
 name: circleci-automation
 description: "Automate CircleCI tasks via Rube MCP (Composio): trigger pipelines, monitor workflows/jobs, retrieve artifacts and test metadata. Always search tools first for current schemas."
@@ -31206,8 +31186,7 @@ Format: {vcs_type}/{org_name}/{repo_name}
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/close-automation/SKILL.md
-
+## Imported Module: Close Automation
 ---
 name: close-automation
 description: "Automate Close CRM tasks via Rube MCP (Composio): create leads, manage calls/SMS, handle tasks, and track notes. Always search tools first for current schemas."
@@ -31425,8 +31404,7 @@ Close data model:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/coda-automation/SKILL.md
-
+## Imported Module: Coda Automation
 ---
 name: coda-automation
 description: "Automate Coda tasks via Rube MCP (Composio): manage docs, pages, tables, rows, formulas, permissions, and publishing. Always search tools first for current schemas."
@@ -31673,8 +31651,7 @@ Automate Coda document and data operations through Composio's Coda toolkit via R
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/confluence-automation/SKILL.md
-
+## Imported Module: Confluence Automation
 ---
 name: confluence-automation
 description: "Automate Confluence page creation, content search, space management, labels, and hierarchy navigation via Rube MCP (Composio). Always search tools first for current schemas."
@@ -31888,8 +31865,7 @@ Confluence uses two pagination styles:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/convertkit-automation/SKILL.md
-
+## Imported Module: Convertkit Automation
 ---
 name: convertkit-automation
 description: "Automate ConvertKit (Kit) tasks via Rube MCP (Composio): manage subscribers, tags, broadcasts, and broadcast stats. Always search tools first for current schemas."
@@ -32090,8 +32066,7 @@ Kit uses cursor-based pagination:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/datadog-automation/SKILL.md
-
+## Imported Module: Datadog Automation
 ---
 name: datadog-automation
 description: "Automate Datadog tasks via Rube MCP (Composio): query metrics, search logs, manage monitors/dashboards, create events and downtimes. Always search tools first for current schemas."
@@ -32332,8 +32307,7 @@ logs("service:web status:error").index("main").rollup("count").last("5m") > 10
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/discord-automation/SKILL.md
-
+## Imported Module: Discord Automation
 ---
 name: discord-automation
 description: "Automate Discord tasks via Rube MCP (Composio): messages, channels, roles, webhooks, reactions. Always search tools first for current schemas."
@@ -32526,8 +32500,7 @@ Permissions are combined using bitwise OR:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/docusign-automation/SKILL.md
-
+## Imported Module: Docusign Automation
 ---
 name: docusign-automation
 description: "Automate DocuSign tasks via Rube MCP (Composio): templates, envelopes, signatures, document management. Always search tools first for current schemas."
@@ -32741,8 +32714,7 @@ created (draft) -> sent -> delivered -> signed -> completed
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/dropbox-automation/SKILL.md
-
+## Imported Module: Dropbox Automation
 ---
 name: dropbox-automation
 description: "Automate Dropbox file management, sharing, search, uploads, downloads, and folder operations via Rube MCP (Composio). Always search tools first for current schemas."
@@ -32978,8 +32950,7 @@ Several Dropbox operations run asynchronously:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/figma-automation/SKILL.md
-
+## Imported Module: Figma Automation
 ---
 name: figma-automation
 description: "Automate Figma tasks via Rube MCP (Composio): files, components, design tokens, comments, exports. Always search tools first for current schemas."
@@ -33166,8 +33137,7 @@ Extract IDs from Figma URLs:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/freshdesk-automation/SKILL.md
-
+## Imported Module: Freshdesk Automation
 ---
 name: freshdesk-automation
 description: "Automate Freshdesk helpdesk operations including tickets, contacts, companies, notes, and replies via Rube MCP (Composio). Always search tools first for current schemas."
@@ -33392,8 +33362,7 @@ Freshdesk uses page-based pagination:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/freshservice-automation/SKILL.md
-
+## Imported Module: Freshservice Automation
 ---
 name: freshservice-automation
 description: "Automate Freshservice ITSM tasks via Rube MCP (Composio): create/update tickets, bulk operations, service requests, and outbound emails. Always search tools first for current schemas."
@@ -33612,8 +33581,7 @@ Automate Freshservice IT Service Management operations through Composio's Freshs
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/git-hooks-automation/SKILL.md
-
+## Imported Module: Git Hooks Automation
 ---
 name: git-hooks-automation
 description: "Master Git hooks setup with Husky, lint-staged, pre-commit framework, and commitlint. Automate code quality gates, formatting, linting, and commit message enforcement before code reaches CI."
@@ -34031,8 +33999,7 @@ echo "npx --no -- commitlint --edit \$1" > .husky/commit-msg
 - `@bash-pro` - Advanced shell scripting for custom hooks
 - `@github-actions-templates` - CI/CD workflow templates
 
-## Source: references/skills/workflow-automation/references/legacy/gmail-automation/SKILL.md
-
+## Imported Module: Gmail Automation
 ---
 name: gmail-automation
 description: |
@@ -34216,8 +34183,7 @@ Service name: `gmail-skill-oauth`
 
 Tokens automatically refresh when expired using Google's cloud function.
 
-## Source: references/skills/workflow-automation/references/legacy/google-analytics-automation/SKILL.md
-
+## Imported Module: Google Analytics Automation
 ---
 name: google-analytics-automation
 description: "Automate Google Analytics tasks via Rube MCP (Composio): run reports, list accounts/properties, funnels, pivots, key events. Always search tools first for current schemas."
@@ -34450,8 +34416,7 @@ Automate Google Analytics 4 (GA4) reporting and property management through Comp
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/google-calendar-automation/SKILL.md
-
+## Imported Module: Google Calendar Automation
 ---
 name: google-calendar-automation
 description: |
@@ -34612,8 +34577,7 @@ Service name: `google-calendar-skill-oauth`
 
 Tokens are automatically refreshed when expired using Google's cloud function.
 
-## Source: references/skills/workflow-automation/references/legacy/google-docs-automation/SKILL.md
-
+## Imported Module: Google Docs Automation
 ---
 name: google-docs-automation
 description: |
@@ -34697,8 +34661,7 @@ Service name: `google-docs-skill-oauth`
 
 Access tokens are automatically refreshed when expired using Google's cloud function.
 
-## Source: references/skills/workflow-automation/references/legacy/google-drive-automation/SKILL.md
-
+## Imported Module: Google Drive Automation
 ---
 name: google-drive-automation
 description: |
@@ -34836,8 +34799,7 @@ Service name: `google-drive-skill-oauth`
 
 Automatically refreshes expired tokens using Google's cloud function.
 
-## Source: references/skills/workflow-automation/references/legacy/google-sheets-automation/SKILL.md
-
+## Imported Module: Google Sheets Automation
 ---
 name: google-sheets-automation
 description: |
@@ -34987,8 +34949,7 @@ Tokens automatically refresh when expired using Google's cloud function.
 
 Use this skill when tackling tasks related to its primary domain or functionality as described above.
 
-## Source: references/skills/workflow-automation/references/legacy/google-slides-automation/SKILL.md
-
+## Imported Module: Google Slides Automation
 ---
 name: google-slides-automation
 description: |
@@ -35131,8 +35092,7 @@ Service name: `google-slides-skill-oauth`
 
 Automatically refreshes expired tokens using Google's cloud function.
 
-## Source: references/skills/workflow-automation/references/legacy/googlesheets-automation/SKILL.md
-
+## Imported Module: Googlesheets Automation
 ---
 name: googlesheets-automation
 description: "Automate Google Sheets operations (read, write, format, filter, manage spreadsheets) via Rube MCP (Composio). Read/write data, manage tabs, apply formatting, and search rows programmatically."
@@ -35335,8 +35295,7 @@ Google Sheets enforces strict rate limits:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/helpdesk-automation/SKILL.md
-
+## Imported Module: Helpdesk Automation
 ---
 name: helpdesk-automation
 description: "Automate HelpDesk tasks via Rube MCP (Composio): list tickets, manage views, use canned responses, and configure custom fields. Always search tools first for current schemas."
@@ -35508,8 +35467,7 @@ Backward pagination:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/hubspot-automation/SKILL.md
-
+## Imported Module: Hubspot Automation
 ---
 name: hubspot-automation
 description: "Automate HubSpot CRM operations (contacts, companies, deals, tickets, properties) via Rube MCP using Composio integration."
@@ -35693,8 +35651,7 @@ Automate HubSpot CRM workflows including contact/company management, deal pipeli
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/inngest/SKILL.md
-
+## Imported Module: Inngest
 ---
 name: inngest
 description: "Inngest expert for serverless-first background jobs, event-driven workflows, and durable execution without managing queues or workers. Use when: inngest, serverless background job, event-driven wor..."
@@ -35756,8 +35713,7 @@ Works well with: `nextjs-app-router`, `vercel-deployment`, `supabase-backend`, `
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/instagram-automation/SKILL.md
-
+## Imported Module: Instagram Automation
 ---
 name: instagram-automation
 description: "Automate Instagram tasks via Rube MCP (Composio): create posts, carousels, manage media, get insights, and publishing limits. Always search tools first for current schemas."
@@ -35955,8 +35911,7 @@ Automate Instagram operations through Composio's Instagram toolkit via Rube MCP.
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/intercom-automation/SKILL.md
-
+## Imported Module: Intercom Automation
 ---
 name: intercom-automation
 description: "Automate Intercom tasks via Rube MCP (Composio): conversations, contacts, companies, segments, admins. Always search tools first for current schemas."
@@ -36210,8 +36165,7 @@ Automate Intercom operations through Composio's Intercom toolkit via Rube MCP.
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/klaviyo-automation/SKILL.md
-
+## Imported Module: Klaviyo Automation
 ---
 name: klaviyo-automation
 description: "Automate Klaviyo tasks via Rube MCP (Composio): manage email/SMS campaigns, inspect campaign messages, track tags, and monitor send jobs. Always search tools first for current schemas."
@@ -36407,8 +36361,7 @@ fields__template=['name', 'html', 'text']
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/linkedin-automation/SKILL.md
-
+## Imported Module: Linkedin Automation
 ---
 name: linkedin-automation
 description: "Automate LinkedIn tasks via Rube MCP (Composio): create posts, manage profile, company info, comments, and image uploads. Always search tools first for current schemas."
@@ -36589,8 +36542,7 @@ Automate LinkedIn operations through Composio's LinkedIn toolkit via Rube MCP.
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/mailchimp-automation/SKILL.md
-
+## Imported Module: Mailchimp Automation
 ---
 name: mailchimp-automation
 description: "Automate Mailchimp email marketing including campaigns, audiences, subscribers, segments, and analytics via Rube MCP (Composio). Always search tools first for current schemas."
@@ -36827,8 +36779,7 @@ subscriber_hash = hashlib.md5(email.lower().encode()).hexdigest()
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/make-automation/SKILL.md
-
+## Imported Module: Make Automation
 ---
 name: make-automation
 description: "Automate Make (Integromat) tasks via Rube MCP (Composio): operations, enums, language and timezone lookups. Always search tools first for current schemas."
@@ -37035,8 +36986,7 @@ Instead of relying solely on Make's toolkit, build equivalent automation directl
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/makepad-animation/SKILL.md
-
+## Imported Module: Makepad Animation
 ---
 name: makepad-animation
 description: |
@@ -37342,8 +37292,7 @@ fn handle_event(&mut self, cx: &mut Cx, event: &Event, scope: &mut Scope) {
 4. Makepad tweens between old and new values automatically
 5. Use `id!(state.value)` macro to reference animation states in Rust
 
-## Source: references/skills/workflow-automation/references/legacy/makepad-basics/SKILL.md
-
+## Imported Module: Makepad Basics
 ---
 name: makepad-basics
 description: |
@@ -37497,8 +37446,7 @@ let text = input.text();
 3. Cross-platform: same code runs on Android, iOS, Linux, macOS, Windows, Web
 4. Recommend UI Zoo example for widget exploration
 
-## Source: references/skills/workflow-automation/references/legacy/makepad-deployment/SKILL.md
-
+## Imported Module: Makepad Deployment
 ---
 name: makepad-deployment
 description: |
@@ -37910,8 +37858,7 @@ cargo makepad android install-toolchain --full-ndk
 - [cargo-makepad](https://github.com/makepad/makepad)
 - [makepad-packaging-action](https://github.com/marketplace/actions/makepad-packaging-action)
 
-## Source: references/skills/workflow-automation/references/legacy/makepad-dsl/SKILL.md
-
+## Imported Module: Makepad Dsl
 ---
 name: makepad-dsl
 description: |
@@ -38067,8 +38014,7 @@ Child = <Parent> {
 3. Highlight that changes to DSL are live-reloaded without recompilation
 4. Distinguish between named objects (prototypes) and widget instances
 
-## Source: references/skills/workflow-automation/references/legacy/makepad-event-action/SKILL.md
-
+## Imported Module: Makepad Event Action
 ---
 name: makepad-event-action
 description: |
@@ -38320,8 +38266,7 @@ if let Event::NextFrame(ne) = event {
 4. `Cx::post_action()` is thread-safe for async operations
 5. `DefaultNone` derive macro auto-implements Default for enums
 
-## Source: references/skills/workflow-automation/references/legacy/makepad-font/SKILL.md
-
+## Imported Module: Makepad Font
 ---
 name: makepad-font
 description: |
@@ -38553,8 +38498,7 @@ pub struct rasterizer::Settings {
 
 Use this skill when tackling tasks related to its primary domain or functionality as described above.
 
-## Source: references/skills/workflow-automation/references/legacy/makepad-layout/SKILL.md
-
+## Imported Module: Makepad Layout
 ---
 name: makepad-layout
 description: |
@@ -38732,8 +38676,7 @@ Refer to the local files for detailed documentation:
 3. Unlike CSS flexbox, there's no flex-grow/shrink - use Fill/Fit
 4. Alignment applies to children, not the element itself
 
-## Source: references/skills/workflow-automation/references/legacy/makepad-platform/SKILL.md
-
+## Imported Module: Makepad Platform
 ---
 name: makepad-platform
 description: |
@@ -38897,8 +38840,7 @@ impl AppMain for App {
 4. Use `cx.os_type()` for runtime platform detection
 5. Use `#[cfg(target_os = "...")]` for compile-time platform detection
 
-## Source: references/skills/workflow-automation/references/legacy/makepad-reference/SKILL.md
-
+## Imported Module: Makepad Reference
 ---
 name: makepad-reference
 description: |
@@ -38952,8 +38894,7 @@ log!("State: {} / {}", self.counter, self.is_loading);
 - [Robrix](https://github.com/project-robius/robrix) - Production reference
 - [Moly](https://github.com/moxin-org/moly) - Production reference
 
-## Source: references/skills/workflow-automation/references/legacy/makepad-shaders/SKILL.md
-
+## Imported Module: Makepad Shaders
 ---
 name: makepad-shaders
 description: |
@@ -39145,8 +39086,7 @@ Community contributions: `./community/`
 4. Sdf2d is the primary tool for 2D shape rendering
 5. GLSL ES 1.0 built-in functions are available
 
-## Source: references/skills/workflow-automation/references/legacy/makepad-skills/SKILL.md
-
+## Imported Module: Makepad Skills
 ---
 name: makepad-skills
 description: "Makepad UI development skills for Rust apps: setup, patterns, shaders, packaging, and troubleshooting."
@@ -39171,8 +39111,7 @@ This skill provides guidance and patterns for makepad ui development skills for 
 
 For more information, see the [source repository](https://github.com/ZhangHanDong/makepad-skills).
 
-## Source: references/skills/workflow-automation/references/legacy/makepad-splash/SKILL.md
-
+## Imported Module: Makepad Splash
 ---
 name: makepad-splash
 description: |
@@ -39387,8 +39326,7 @@ create_form([
 4. Scripts run in a sandboxed environment
 5. HTTP and timer APIs enable async operations
 
-## Source: references/skills/workflow-automation/references/legacy/makepad-widgets/SKILL.md
-
+## Imported Module: Makepad Widgets
 ---
 name: makepad-widgets
 description: |
@@ -39601,8 +39539,7 @@ pub trait Widget: WidgetNode {
 3. Draw shaders (`draw_bg`, `draw_text`) control appearance
 4. All widgets support animation through `animator` property
 
-## Source: references/skills/workflow-automation/references/legacy/microsoft-teams-automation/SKILL.md
-
+## Imported Module: Microsoft Teams Automation
 ---
 name: microsoft-teams-automation
 description: "Automate Microsoft Teams tasks via Rube MCP (Composio): send messages, manage channels, create meetings, handle chats, and search messages. Always search tools first for current schemas."
@@ -39819,8 +39756,7 @@ Automate Microsoft Teams operations through Composio's Microsoft Teams toolkit v
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/miro-automation/SKILL.md
-
+## Imported Module: Miro Automation
 ---
 name: miro-automation
 description: "Automate Miro tasks via Rube MCP (Composio): boards, items, sticky notes, frames, sharing, connectors. Always search tools first for current schemas."
@@ -40031,8 +39967,7 @@ Automate Miro whiteboard operations through Composio's Miro toolkit via Rube MCP
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/mixpanel-automation/SKILL.md
-
+## Imported Module: Mixpanel Automation
 ---
 name: mixpanel-automation
 description: "Automate Mixpanel tasks via Rube MCP (Composio): events, segmentation, funnels, cohorts, user profiles, JQL queries. Always search tools first for current schemas."
@@ -40262,8 +40197,7 @@ Used in `where` and `on` parameters:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/n8n-code-javascript/SKILL.md
-
+## Imported Module: N8N Code Javascript
 ---
 name: n8n-code-javascript
 description: Write JavaScript code in n8n Code nodes. Use when writing JavaScript in n8n, using $input/$json/$node syntax, making HTTP requests with $helpers, working with dates using DateTime, troubleshooting Code node errors, or choosing between Code node modes.
@@ -40964,8 +40898,7 @@ Before deploying Code nodes, verify:
 
 **Ready to write JavaScript in n8n Code nodes!** Start with simple transformations, use the error patterns guide to avoid common mistakes, and reference the pattern library for production-ready examples.
 
-## Source: references/skills/workflow-automation/references/legacy/n8n-code-python/SKILL.md
-
+## Imported Module: N8N Code Python
 ---
 name: n8n-code-python
 description: Write Python code in n8n Code nodes. Use when writing Python in n8n, using _input/_json/_node syntax, working with standard library, or need to understand Python limitations in n8n Code nodes.
@@ -41715,8 +41648,7 @@ Before deploying Python Code nodes, verify:
 
 **Ready to write Python in n8n Code nodes - but consider JavaScript first!** Use Python for specific needs, reference the error patterns guide to avoid common mistakes, and leverage the standard library effectively.
 
-## Source: references/skills/workflow-automation/references/legacy/n8n-expression-syntax/SKILL.md
-
+## Imported Module: N8N Expression Syntax
 ---
 name: n8n-expression-syntax
 description: Validate n8n expression syntax and fix common errors. Use when writing n8n expressions, using {{}} syntax, accessing $json/$node variables, troubleshooting expression errors, or working with webhook data in workflows.
@@ -42234,8 +42166,7 @@ For more details, see:
 
 **Need Help?** Reference the n8n expression documentation or use n8n-mcp validation tools to check your expressions.
 
-## Source: references/skills/workflow-automation/references/legacy/n8n-mcp-tools-expert/SKILL.md
-
+## Imported Module: N8N Mcp Tools Expert
 ---
 name: n8n-mcp-tools-expert
 description: Expert guide for using n8n-mcp MCP tools effectively. Use when searching for nodes, validating configurations, accessing templates, managing workflows, or using any n8n-mcp tool. Provides tool selection guidance, parameter formats, and common patterns.
@@ -42879,8 +42810,7 @@ For details, see:
 - n8n Code JavaScript - Write JavaScript in Code nodes
 - n8n Code Python - Write Python in Code nodes
 
-## Source: references/skills/workflow-automation/references/legacy/n8n-node-configuration/SKILL.md
-
+## Imported Module: N8N Node Configuration
 ---
 name: n8n-node-configuration
 description: Operation-aware node configuration guidance. Use when configuring nodes, understanding property dependencies, determining required fields, choosing between get_node detail levels, or learning common configuration patterns by node type.
@@ -43667,8 +43597,7 @@ For comprehensive guides on specific topics:
 - **n8n Expression Syntax** - Configure expression fields
 - **n8n Workflow Patterns** - Apply patterns with proper configuration
 
-## Source: references/skills/workflow-automation/references/legacy/n8n-validation-expert/SKILL.md
-
+## Imported Module: N8N Validation Expert
 ---
 name: n8n-validation-expert
 description: Interpret validation errors and guide fixing them. Use when encountering validation errors, validation warnings, false positives, operator structure issues, or need help understanding validation results. Also use when asking about validation...
@@ -44359,8 +44288,7 @@ For comprehensive error catalogs and false positive examples:
 - n8n Expression Syntax - Fix expression errors
 - n8n Node Configuration - Understand required fields
 
-## Source: references/skills/workflow-automation/references/legacy/n8n-workflow-patterns/SKILL.md
-
+## Imported Module: N8N Workflow Patterns
 ---
 name: n8n-workflow-patterns
 description: Proven workflow architectural patterns from real n8n workflows. Use when building new workflows, designing workflow structure, choosing workflow patterns, planning workflow architecture, or asking about webhook processing, HTTP API integration,...
@@ -44773,8 +44701,7 @@ Use `search_templates` and `get_template` from n8n-mcp tools to find examples!
 - n8n Validation Expert - Validate and fix errors
 - n8n Node Configuration - Configure specific operations
 
-## Source: references/skills/workflow-automation/references/legacy/notion-automation/SKILL.md
-
+## Imported Module: Notion Automation
 ---
 name: notion-automation
 description: "Automate Notion tasks via Rube MCP (Composio): pages, databases, blocks, comments, users. Always search tools first for current schemas."
@@ -44995,8 +44922,7 @@ Automate Notion operations through Composio's Notion toolkit via Rube MCP.
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/one-drive-automation/SKILL.md
-
+## Imported Module: One Drive Automation
 ---
 name: one-drive-automation
 description: "Automate OneDrive file management, search, uploads, downloads, sharing, permissions, and folder operations via Rube MCP (Composio). Always search tools first for current schemas."
@@ -45240,8 +45166,7 @@ Most OneDrive tools accept either paths or IDs:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/outlook-automation/SKILL.md
-
+## Imported Module: Outlook Automation
 ---
 name: outlook-automation
 description: "Automate Outlook tasks via Rube MCP (Composio): emails, calendar, contacts, folders, attachments. Always search tools first for current schemas."
@@ -45438,8 +45363,7 @@ Automate Microsoft Outlook operations through Composio's Outlook toolkit via Rub
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/outlook-calendar-automation/SKILL.md
-
+## Imported Module: Outlook Calendar Automation
 ---
 name: outlook-calendar-automation
 description: "Automate Outlook Calendar tasks via Rube MCP (Composio): create events, manage attendees, find meeting times, and handle invitations. Always search tools first for current schemas."
@@ -45681,8 +45605,7 @@ filter: "contains(subject, 'Review') and categories/any(c:c eq 'Work')"
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/pagerduty-automation/SKILL.md
-
+## Imported Module: Pagerduty Automation
 ---
 name: pagerduty-automation
 description: "Automate PagerDuty tasks via Rube MCP (Composio): manage incidents, services, schedules, escalation policies, and on-call rotations. Always search tools first for current schemas."
@@ -45933,8 +45856,7 @@ Automate PagerDuty incident management and operations through Composio's PagerDu
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/pipedrive-automation/SKILL.md
-
+## Imported Module: Pipedrive Automation
 ---
 name: pipedrive-automation
 description: "Automate Pipedrive CRM operations including deals, contacts, organizations, activities, notes, and pipeline management via Rube MCP (Composio). Always search tools first for current schemas."
@@ -46164,8 +46086,7 @@ Most list endpoints use offset-based pagination:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/posthog-automation/SKILL.md
-
+## Imported Module: Posthog Automation
 ---
 name: posthog-automation
 description: "Automate PostHog tasks via Rube MCP (Composio): events, feature flags, projects, user profiles, annotations. Always search tools first for current schemas."
@@ -46395,8 +46316,7 @@ Feature flags support sophisticated targeting:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/postmark-automation/SKILL.md
-
+## Imported Module: Postmark Automation
 ---
 name: postmark-automation
 description: "Automate Postmark email delivery tasks via Rube MCP (Composio): send templated emails, manage templates, monitor delivery stats and bounces. Always search tools first for current schemas."
@@ -46589,8 +46509,7 @@ Automate Postmark transactional email operations through Composio's Postmark too
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/reddit-automation/SKILL.md
-
+## Imported Module: Reddit Automation
 ---
 name: reddit-automation
 description: "Automate Reddit tasks via Rube MCP (Composio): search subreddits, create posts, manage comments, and browse top content. Always search tools first for current schemas."
@@ -46808,8 +46727,7 @@ t5_ = Subreddit
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/render-automation/SKILL.md
-
+## Imported Module: Render Automation
 ---
 name: render-automation
 description: "Automate Render tasks via Rube MCP (Composio): services, deployments, projects. Always search tools first for current schemas."
@@ -46996,8 +46914,7 @@ Automate Render cloud platform operations through Composio's Render toolkit via 
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/salesforce-automation/SKILL.md
-
+## Imported Module: Salesforce Automation
 ---
 name: salesforce-automation
 description: "Automate Salesforce tasks via Rube MCP (Composio): leads, contacts, accounts, opportunities, SOQL queries. Always search tools first for current schemas."
@@ -47193,8 +47110,7 @@ SELECT Id, Name FROM Opportunity WHERE CloseDate = NEXT_MONTH
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/segment-automation/SKILL.md
-
+## Imported Module: Segment Automation
 ---
 name: segment-automation
 description: "Automate Segment tasks via Rube MCP (Composio): track events, identify users, manage groups, page views, aliases, batch operations. Always search tools first for current schemas."
@@ -47425,8 +47341,7 @@ Segment recommends consistent event naming:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/sendgrid-automation/SKILL.md
-
+## Imported Module: Sendgrid Automation
 ---
 name: sendgrid-automation
 description: "Automate SendGrid email operations including sending emails, managing contacts/lists, sender identities, templates, and analytics via Rube MCP (Composio). Always search tools first for current sche..."
@@ -47660,8 +47575,7 @@ Contact operations (`ADD_OR_UPDATE_A_CONTACT`, `IMPORT_CONTACTS`) are asynchrono
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/sentry-automation/SKILL.md
-
+## Imported Module: Sentry Automation
 ---
 name: sentry-automation
 description: "Automate Sentry tasks via Rube MCP (Composio): manage issues/events, configure alerts, track releases, monitor projects and teams. Always search tools first for current schemas."
@@ -47899,8 +47813,7 @@ Automate Sentry error tracking and monitoring operations through Composio's Sent
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/shopify-automation/SKILL.md
-
+## Imported Module: Shopify Automation
 ---
 name: shopify-automation
 description: "Automate Shopify tasks via Rube MCP (Composio): products, orders, customers, inventory, collections. Always search tools first for current schemas."
@@ -48074,8 +47987,7 @@ For advanced operations:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/slack-automation/SKILL.md
-
+## Imported Module: Slack Automation
 ---
 name: slack-automation
 description: "Automate Slack messaging, channel management, search, reactions, and threads via Rube MCP (Composio). Send messages, search conversations, manage channels/users, and react to messages programmatica..."
@@ -48270,8 +48182,7 @@ Most list endpoints use cursor-based pagination:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/square-automation/SKILL.md
-
+## Imported Module: Square Automation
 ---
 name: square-automation
 description: "Automate Square tasks via Rube MCP (Composio): payments, orders, invoices, locations. Always search tools first for current schemas."
@@ -48453,8 +48364,7 @@ Automate Square payment processing, order management, and invoicing through Comp
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/stripe-automation/SKILL.md
-
+## Imported Module: Stripe Automation
 ---
 name: stripe-automation
 description: "Automate Stripe tasks via Rube MCP (Composio): customers, charges, subscriptions, invoices, products, refunds. Always search tools first for current schemas."
@@ -48658,8 +48568,7 @@ Stripe uses smallest currency unit:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/supabase-automation/SKILL.md
-
+## Imported Module: Supabase Automation
 ---
 name: supabase-automation
 description: "Automate Supabase database queries, table management, project administration, storage, edge functions, and SQL execution via Rube MCP (Composio). Always search tools first for current schemas."
@@ -48901,8 +48810,7 @@ Automate Supabase operations including database queries, table schema inspection
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/telegram-automation/SKILL.md
-
+## Imported Module: Telegram Automation
 ---
 name: telegram-automation
 description: "Automate Telegram tasks via Rube MCP (Composio): send messages, manage chats, share photos/documents, and handle bot commands. Always search tools first for current schemas."
@@ -49127,8 +49035,7 @@ Automate Telegram operations through Composio's Telegram toolkit via Rube MCP.
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/temporal-golang-pro/SKILL.md
-
+## Imported Module: Temporal Golang Pro
 ---
 name: temporal-golang-pro
 description: "Use when building durable distributed systems with Temporal Go SDK. Covers deterministic workflow rules, mTLS worker configs, and advanced patterns."
@@ -49346,8 +49253,7 @@ func ApprovalWorkflow(ctx workflow.Context) (string, error) {
 - `golang-pro` - General Go performance tuning and advanced syntax.
 - `workflow-orchestration-patterns` - Language-agnostic orchestration strategy.
 
-## Source: references/skills/workflow-automation/references/legacy/temporal-python-pro/SKILL.md
-
+## Imported Module: Temporal Python Pro
 ---
 name: temporal-python-pro
 description: Master Temporal workflow orchestration with Python SDK. Implements durable workflows, saga patterns, and distributed transactions. Covers async/await, testing strategies, and production deployment.
@@ -49717,8 +49623,7 @@ Expert Temporal developer focused on building reliable, scalable workflow orches
 4. Test with time-skipping for fast feedback
 5. Monitor and observe in production
 
-## Source: references/skills/workflow-automation/references/legacy/temporal-python-testing/SKILL.md
-
+## Imported Module: Temporal Python Testing
 ---
 name: temporal-python-testing
 description: "Test Temporal workflows with pytest, time-skipping, and mocking strategies. Covers unit testing, integration testing, replay testing, and local development setup. Use when implementing Temporal wor..."
@@ -49893,8 +49798,7 @@ async def test_activity():
 - Testing Patterns: github.com/temporalio/temporal/blob/main/docs/development/testing.md
 - Python Samples: github.com/temporalio/samples-python
 
-## Source: references/skills/workflow-automation/references/legacy/tiktok-automation/SKILL.md
-
+## Imported Module: Tiktok Automation
 ---
 name: tiktok-automation
 description: "Automate TikTok tasks via Rube MCP (Composio): upload/publish videos, post photos, manage content, and view user profiles/stats. Always search tools first for current schemas."
@@ -50078,8 +49982,7 @@ Automate TikTok content creation and profile operations through Composio's TikTo
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/todoist-automation/SKILL.md
-
+## Imported Module: Todoist Automation
 ---
 name: todoist-automation
 description: "Automate Todoist task management, projects, sections, filtering, and bulk operations via Rube MCP (Composio). Always search tools first for current schemas."
@@ -50316,8 +50219,7 @@ Always resolve human-readable names to IDs before operations:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/trigger-dev/SKILL.md
-
+## Imported Module: Trigger Dev
 ---
 name: trigger-dev
 description: "Trigger.dev expert for background jobs, AI workflows, and reliable async execution with excellent developer experience and TypeScript-first design. Use when: trigger.dev, trigger dev, background ta..."
@@ -50391,8 +50293,7 @@ Works well with: `nextjs-app-router`, `vercel-deployment`, `ai-agents-architect`
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/twitter-automation/SKILL.md
-
+## Imported Module: Twitter Automation
 ---
 name: twitter-automation
 description: "Automate Twitter/X tasks via Rube MCP (Composio): posts, search, users, bookmarks, lists, media. Always search tools first for current schemas."
@@ -50629,8 +50530,7 @@ Automate Twitter/X operations through Composio's Twitter toolkit via Rube MCP.
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/upstash-qstash/SKILL.md
-
+## Imported Module: Upstash Qstash
 ---
 name: upstash-qstash
 description: "Upstash QStash expert for serverless message queues, scheduled jobs, and reliable HTTP-based task delivery without managing infrastructure. Use when: qstash, upstash queue, serverless cron, schedul..."
@@ -50705,8 +50605,7 @@ Works well with: `vercel-deployment`, `nextjs-app-router`, `redis-specialist`, `
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/vercel-automation/SKILL.md
-
+## Imported Module: Vercel Automation
 ---
 name: vercel-automation
 description: "Automate Vercel tasks via Rube MCP (Composio): manage deployments, domains, DNS, env vars, projects, and teams. Always search tools first for current schemas."
@@ -50938,8 +50837,7 @@ Automate Vercel platform operations through Composio's Vercel toolkit via Rube M
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/webflow-automation/SKILL.md
-
+## Imported Module: Webflow Automation
 ---
 name: webflow-automation
 description: "Automate Webflow CMS collections, site publishing, page management, asset uploads, and ecommerce orders via Rube MCP (Composio). Always search tools first for current schemas."
@@ -51181,8 +51079,7 @@ Typical CMS content creation flow:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/whatsapp-automation/SKILL.md
-
+## Imported Module: Whatsapp Automation
 ---
 name: whatsapp-automation
 description: "Automate WhatsApp Business tasks via Rube MCP (Composio): send messages, manage templates, upload media, and handle contacts. Always search tools first for current schemas."
@@ -51402,8 +51299,7 @@ Automate WhatsApp Business operations through Composio's WhatsApp toolkit via Ru
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/youtube-automation/SKILL.md
-
+## Imported Module: Youtube Automation
 ---
 name: youtube-automation
 description: "Automate YouTube tasks via Rube MCP (Composio): upload videos, manage playlists, search content, get analytics, and handle comments. Always search tools first for current schemas."
@@ -51627,8 +51523,7 @@ Automate YouTube operations through Composio's YouTube toolkit via Rube MCP.
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/zapier-make-patterns/SKILL.md
-
+## Imported Module: Zapier Make Patterns
 ---
 name: zapier-make-patterns
 description: "No-code automation democratizes workflow building. Zapier and Make (formerly Integromat) let non-developers automate business processes without writing code. But no-code doesn't mean no-complexity ..."
@@ -51702,8 +51597,7 @@ Works well with: `workflow-automation`, `agent-tool-builder`, `backend`, `api-de
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/zendesk-automation/SKILL.md
-
+## Imported Module: Zendesk Automation
 ---
 name: zendesk-automation
 description: "Automate Zendesk tasks via Rube MCP (Composio): tickets, users, organizations, replies. Always search tools first for current schemas."
@@ -51924,8 +51818,7 @@ new -> open -> pending -> solved -> closed
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/zoho-crm-automation/SKILL.md
-
+## Imported Module: Zoho Crm Automation
 ---
 name: zoho-crm-automation
 description: "Automate Zoho CRM tasks via Rube MCP (Composio): create/update records, search contacts, manage leads, and convert leads. Always search tools first for current schemas."
@@ -52137,8 +52030,7 @@ criteria: '((Last_Name:equals:Doe)AND(Email:contains:example.com))'
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/workflow-automation/references/legacy/zoom-automation/SKILL.md
-
+## Imported Module: Zoom Automation
 ---
 name: zoom-automation
 description: "Automate Zoom meeting creation, management, recordings, webinars, and participant tracking via Rube MCP (Composio). Always search tools first for current schemas."

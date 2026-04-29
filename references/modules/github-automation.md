@@ -1,5 +1,4 @@
-## Source: references/skills/github-automation/SKILL.md
-
+## Module: Github Automation
 ---
 name: github-automation
 description: "Automate GitHub repositories, issues, pull requests, branches, CI/CD, and permissions via Rube MCP (Composio). Manage code workflows, review PRs, search code, and handle deployments programmatically."
@@ -234,7 +233,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: asana-automation
@@ -414,7 +413,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: basecamp-automation
@@ -657,7 +656,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: bitbucket-automation
@@ -890,7 +889,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: clickup-automation
@@ -1133,7 +1132,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: github-workflow-automation
@@ -1987,7 +1986,7 @@ Dockerfile @org/devops-team
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: gitlab-automation
@@ -2250,7 +2249,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: jira-automation
@@ -2444,7 +2443,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: linear-automation
@@ -2631,7 +2630,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: monday-automation
@@ -2873,7 +2872,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: trello-automation
@@ -3063,7 +3062,7 @@ This skill is applicable to execute the workflow or actions described in the ove
 
 ---
 
-## Merged Reference (legacy variant)
+## Imported Reference
 
 ---
 name: wrike-automation
@@ -3303,8 +3302,7 @@ Automate Wrike project management operations through Composio's Wrike toolkit vi
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/github-automation/references/legacy/asana-automation/SKILL.md
-
+## Imported Module: Asana Automation
 ---
 name: asana-automation
 description: "Automate Asana tasks via Rube MCP (Composio): tasks, projects, sections, teams, workspaces. Always search tools first for current schemas."
@@ -3481,8 +3479,7 @@ Automate Asana operations through Composio's Asana toolkit via Rube MCP.
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/github-automation/references/legacy/basecamp-automation/SKILL.md
-
+## Imported Module: Basecamp Automation
 ---
 name: basecamp-automation
 description: "Automate Basecamp project management, to-dos, messages, people, and to-do list organization via Rube MCP (Composio). Always search tools first for current schemas."
@@ -3722,8 +3719,7 @@ Basecamp uses page-based pagination on list endpoints:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/github-automation/references/legacy/bitbucket-automation/SKILL.md
-
+## Imported Module: Bitbucket Automation
 ---
 name: bitbucket-automation
 description: "Automate Bitbucket repositories, pull requests, branches, issues, and workspace management via Rube MCP (Composio). Always search tools first for current schemas."
@@ -3953,8 +3949,7 @@ Bitbucket Query Language is available on list endpoints:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/github-automation/references/legacy/clickup-automation/SKILL.md
-
+## Imported Module: Clickup Automation
 ---
 name: clickup-automation
 description: "Automate ClickUp project management including tasks, spaces, folders, lists, comments, and team operations via Rube MCP (Composio). Always search tools first for current schemas."
@@ -4194,8 +4189,7 @@ Always resolve names to IDs through the hierarchy:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/github-automation/references/legacy/github-workflow-automation/SKILL.md
-
+## Imported Module: Github Workflow Automation
 ---
 name: github-workflow-automation
 description: "Automate GitHub workflows with AI assistance. Includes PR reviews, issue triage, CI/CD integration, and Git operations. Use when automating GitHub workflows, setting up PR review automation, creati..."
@@ -5046,8 +5040,7 @@ Dockerfile @org/devops-team
 - [GitHub REST API](https://docs.github.com/en/rest)
 - [CODEOWNERS Syntax](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners)
 
-## Source: references/skills/github-automation/references/legacy/gitlab-automation/SKILL.md
-
+## Imported Module: Gitlab Automation
 ---
 name: gitlab-automation
 description: "Automate GitLab project management, issues, merge requests, pipelines, branches, and user operations via Rube MCP (Composio). Always search tools first for current schemas."
@@ -5307,8 +5300,7 @@ When using project paths as identifiers:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/github-automation/references/legacy/jira-automation/SKILL.md
-
+## Imported Module: Jira Automation
 ---
 name: jira-automation
 description: "Automate Jira tasks via Rube MCP (Composio): issues, projects, sprints, boards, comments, users. Always search tools first for current schemas."
@@ -5499,8 +5491,7 @@ Automate Jira operations through Composio's Jira toolkit via Rube MCP.
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/github-automation/references/legacy/linear-automation/SKILL.md
-
+## Imported Module: Linear Automation
 ---
 name: linear-automation
 description: "Automate Linear tasks via Rube MCP (Composio): issues, projects, cycles, teams, labels. Always search tools first for current schemas."
@@ -5684,8 +5675,7 @@ Automate Linear operations through Composio's Linear toolkit via Rube MCP.
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/github-automation/references/legacy/monday-automation/SKILL.md
-
+## Imported Module: Monday Automation
 ---
 name: monday-automation
 description: "Automate Monday.com work management including boards, items, columns, groups, subitems, and updates via Rube MCP (Composio). Always search tools first for current schemas."
@@ -5924,8 +5914,7 @@ Different column types require different value formats:
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/github-automation/references/legacy/trello-automation/SKILL.md
-
+## Imported Module: Trello Automation
 ---
 name: trello-automation
 description: "Automate Trello boards, cards, and workflows via Rube MCP (Composio). Create cards, manage lists, assign members, and search across boards programmatically."
@@ -6112,8 +6101,7 @@ Most list endpoints return all items. For boards with 1000+ cards, use `limit` a
 ## When to Use
 This skill is applicable to execute the workflow or actions described in the overview.
 
-## Source: references/skills/github-automation/references/legacy/wrike-automation/SKILL.md
-
+## Imported Module: Wrike Automation
 ---
 name: wrike-automation
 description: "Automate Wrike project management via Rube MCP (Composio): create tasks/folders, manage projects, assign work, and track progress. Always search tools first for current schemas."
