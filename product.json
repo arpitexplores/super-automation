@@ -1,7 +1,7 @@
 {
   "name": "super-automation",
   "title": "Super Automation",
-  "description": "Workflow and app automations across SaaS tools, APIs, and integrations.",
+  "description": "The go-to AI vibe coding skill for automation: SaaS workflows, API integrations, triggers, permissions, retries, monitoring, and GitHub automation.",
   "version": "0.1.0",
   "source_catalogue": "skills-super",
   "skill_entrypoint": "SKILL.md",
@@ -14,5 +14,16 @@
       "name": "Workflow Automation",
       "path": "references/modules/workflow-automation.md"
     }
+  ],
+  "keywords": [
+    "workflow automation",
+    "SaaS automation",
+    "API integrations",
+    "GitHub automation",
+    "business process automation",
+    "no-code automation",
+    "agentic automation",
+    "AI vibe coding",
+    "agent skills"
   ]
 }
