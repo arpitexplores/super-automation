@@ -1,0 +1,18 @@
+{
+  "name": "super-automation",
+  "title": "Super Automation",
+  "description": "Workflow and app automations across SaaS tools, APIs, and integrations.",
+  "version": "0.1.0",
+  "source_catalogue": "skills-super",
+  "skill_entrypoint": "SKILL.md",
+  "modules": [
+    {
+      "name": "GitHub Automation",
+      "path": "references/modules/github-automation.md"
+    },
+    {
+      "name": "Workflow Automation",
+      "path": "references/modules/workflow-automation.md"
+    }
+  ]
+}

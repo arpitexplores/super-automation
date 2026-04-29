@@ -1,0 +1,4 @@
+interface:
+  display_name: "Super Automation"
+  short_description: "Workflow and integration automation"
+  default_prompt: "Use $super-automation to help with this request."
