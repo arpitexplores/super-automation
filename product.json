@@ -2,7 +2,7 @@
   "name": "super-automation",
   "title": "Super Automation",
   "description": "The go-to AI vibe coding skill for automation: SaaS workflows, API integrations, triggers, permissions, retries, monitoring, and GitHub automation.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "source_catalogue": "skills-super",
   "skill_entrypoint": "SKILL.md",
   "modules": [

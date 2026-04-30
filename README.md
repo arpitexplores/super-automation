@@ -63,6 +63,8 @@ Use $super-automation to help with this request.
 
 Works with any AI agent that can read Markdown skill files. Install paths vary by tool.
 
+See `INSTALL.md` for detailed installation and update guidance.
+
 ## SUPER Skills Series
 
 This repository is part of the **SUPER Skills** series: standalone, installable agent skills that can be used independently or together.
